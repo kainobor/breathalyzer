@@ -24,9 +24,6 @@ php breathalyzer.php example_input
 
 Example Output (newline after number):
 8
-Programming Language and Efficiency
-At Datanyze we mostly use PHP, but feel free write your solution using PHP or Python (if you’re more comfortable with it). Your solution has to be fast in order for us to consider you for this role. You can test your solution with file 187 to make sure that a) your solution is correct (it should output 187) and b) it’s fast enough (it should run under 4 seconds in PHP on your regular machine).
-
 
 #Usage:
 
